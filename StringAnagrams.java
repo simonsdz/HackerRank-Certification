@@ -13,7 +13,7 @@ public class Solution {
         System.out.println("Enter query size");
         int q_len=sc.nextInt();
         List<String> dictionary=new ArrayList<>(dict_len);
-        System.out.println("Enter dict elements");
+        System.out.println("Enter dictionary elements");
         for(int i=0;i<dict_len;i++)
             dictionary.add(sc.next());
         List<String> query=new ArrayList<>(q_len);
