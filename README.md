@@ -1,6 +1,6 @@
 # HackerRank-Certification
 
-Q1. String Anagrams
+Q1. String Anagrams: 
 Given two arrays of strings, for every string in one list,
 determine how many anagrams of it are in the other list.
 
@@ -20,7 +20,7 @@ Create a for loop with index i of query and inner for loop with index j of dicti
 iterate through the lists and for every ith and jth index check whether the given strings are anagram
 and if they are, increment the count. 
 
-Q2. Active Traders
+Q2. Active Traders: 
 Given a list of trades by customer name, determine which customers account for at least
 5% of the total number of trades. Order the list alphabetically ascending by name.
 
