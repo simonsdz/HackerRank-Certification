@@ -2,7 +2,7 @@
 Check README file for the Question and Algorithm
 */
 import java.util.*;
-public class Hacker {
+public class Solution {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter customer size");
