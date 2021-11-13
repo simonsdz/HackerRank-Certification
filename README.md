@@ -24,7 +24,7 @@ Q2. Active Traders:
 Given a list of trades by customer name, determine which customers account for at least
 5% of the total number of trades. Order the list alphabetically ascending by name.
 
-Example: n-23. (customers)
+Example: n-22. (customers)
 customers= {'Bigcorp', 'Bigcorp', 'Acme', 'Bigcorp', 'Zork', 'Zork', 'Abc', 'Bigcorp', 'Acme', 'Bigcorp', 'Bigcorp',
             'Zork', 'Bigcorp', 'Zork', 'Zork', 'Bigcorp', 'Acme', 'BigcorpAcme', 
             'Bigcorp', 'Acme', 'LittleCorp', 'Nadircorp'}
